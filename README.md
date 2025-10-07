@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan Pablo Riascos
 
-<!--
-**PablitoCortes/PablitoCortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+He trabajado varios años en atención al cliente y actualmente estoy aprendiendo desarrollo web.  
+Me gusta resolver problemas, ser creativo y seguir creciendo en lo que me apasiona: la tecnología.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías y herramientas que estoy aprendiendo
+🧩 HTML | CSS | JavaScript | TypeScript  
+⚛️ React | Next.js  
+🖥️ Node.js | Express | MongoDB  
+🛠️ Git | GitHub  
+
+---
+
+## 🚀 Sobre mí
+🌱 En formación como **Desarrollador Full-Stack**  
+💬 Siempre abierto a aprender, compartir y colaborar en proyectos nuevos  
+🎯 Busco mi primera experiencia profesional en el mundo IT  
+💡 Me inspiran los desafíos que me permiten seguir creciendo
+
+---
+
+## 📫 Cómo contactarme
+📍 [LinkedIn](www.linkedin.com/in/juan-pablo-riascos-b25bb3388)  
+✉️ [Correo](mailto:riascosjuan1597@gmail.com)
+
+---
+
+⭐ Gracias por visitar mi perfil. ¡Siempre hay algo nuevo por aprender!
