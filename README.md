@@ -1,24 +1,28 @@
 # 👋 ¡Hola! Soy Juan Pablo Riascos
 
-He trabajado varios años en atención al cliente y actualmente estoy aprendiendo **Desarrollo Web Full-Stack**.  
-Me gusta resolver problemas, aprender nuevas tecnologías y colaborar con otros desarrolladores.  
+Soy una persona creativa y curiosa, con varios años de experiencia en atención al cliente.  
+Actualmente estoy aprendiendo **Desarrollo Web Full-Stack** y me apasiona crear soluciones con tecnología.  
 
 ---
 
-### 💻 Stack en aprendizaje
-- Front-End: HTML, CSS, JavaScript, TypeScript, React, Next.js  
-- Back-End: Node.js, Express, MongoDB  
-- Herramientas: Git, GitHub  
+### 🚀 Tecnologías y herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github" />
+</p>
 
 ---
 
-### 🚀 Objetivos
-- Seguir creciendo como desarrollador  
-- Participar en proyectos reales  
-- Conseguir mi primera oportunidad profesional en IT  
+### 💡 Sobre mí
+🌱 En formación como **Desarrollador Full-Stack**  
+💬 Siempre aprendiendo algo nuevo  
+🎯 Busco mi primera experiencia profesional en el mundo IT  
+💻 Me motiva crear proyectos que ayuden a las personas
 
----
 
-📫 **Contacto:**  
+
+### 📫 Cómo contactarme
 [LinkedIn](www.linkedin.com/in/juan-pablo-riascos-b25bb3388) | [Correo](mailto:riascosjuan1597@gmail.com)
+
+⭐ ¡Gracias por visitar mi perfil! Si te interesa colaborar, no dudes en escribirme.
+
 
